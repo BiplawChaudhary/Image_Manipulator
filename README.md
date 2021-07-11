@@ -5,7 +5,7 @@ This python program lets us manipulate image.<br>
 ## Tools Used
 <ol>
   <li> Python</li>
-  <li> Oillow - A python's library for image processing</li>
+  <li> Pillow - A python's library for image processing</li>
   </ol>
   
  ##  Flow of program:
